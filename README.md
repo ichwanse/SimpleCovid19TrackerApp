@@ -1,0 +1,1 @@
+# SimpleCovid19TrackerApp
