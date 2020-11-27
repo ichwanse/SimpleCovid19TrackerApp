@@ -12,7 +12,7 @@ import java.util.List;
 @Controller
 public class HomeController {
     @Autowired
-    CoronaVirusDataService coronaVirusDataService; 
+    CoronaVirusDataService coronaVirusDataService;
 
     @GetMapping("/")
     public String home(Model model){
